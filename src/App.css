@@ -1,0 +1,136 @@
+body{
+  background-color: black;
+}
+.one{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 165px;
+  top: 250px;
+  transform: rotate(45deg);
+}
+.one img {
+  width: 150px;
+  height: 150px;
+}
+
+/* two */
+.two{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 275px;
+  top: 360px;
+  transform: rotate(45deg);
+}
+.two img {
+  width: 150px;
+  height: 150px;
+}
+/* three */
+.three{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 275px;
+  top: 140px;
+  transform: rotate(45deg);
+}
+.three img {
+  width: 150px;
+  height: 150px;
+}
+.four{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 386px;
+  top: 250px;
+  transform: rotate(45deg);
+}
+.four img {
+  width: 150px;
+  height: 150px;
+}
+.five{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 496px;
+  top: 140px;
+  transform: rotate(45deg);
+}
+.five img {
+  width: 150px;
+  height: 150px;
+}
+.six{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 497px;
+  top: 360px;
+  transform: rotate(45deg);
+}
+.six img {
+  width: 150px;
+  height: 150px;
+}
+.seven{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 607px;
+  top: 250px;
+  transform: rotate(45deg);
+}
+.seven img {
+  width: 150px;
+  height: 150px;
+}
+.eight{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 717px;
+  top: 140px;
+  transform: rotate(45deg);
+}
+.eight img {
+  width: 150px;
+  height: 150px;
+}
+.nine{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 718px;
+  top: 362px;
+  transform: rotate(45deg);
+}
+.nine img {
+  width: 150px;
+  height: 150px;
+}
+.ten{
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  position: absolute;
+  left: 828px;
+  top: 251px;
+  transform: rotate(45deg);
+}
+.ten img {
+  width: 150px;
+  height: 150px;
+}
